@@ -20,7 +20,7 @@
 
 <div align="center"> 
   
-![snake gif](https://github.com/RyanFernando27/RyanFernando27/blob/output/github-snake.svg)
+![snake gif](https://github.com/RyanFernando27/RyanFernando27/blob/output/github-snake-dark.svg)
 </div>
 
 
