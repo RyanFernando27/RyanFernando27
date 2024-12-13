@@ -18,8 +18,12 @@
 
 ---
 
-
+<div align="center"> 
+  
 ![snake gif](https://github.com/RyanFernando27/RyanFernando27/blob/output/github-snake-dark.svg)
+</div>
+
+
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
