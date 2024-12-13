@@ -18,6 +18,9 @@
 
 ---
 
+
+![snake gif](https://github.com/RyanFernando27/RyanFernando27/blob/output/github-snake-dark.svg)
+
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
@@ -36,6 +39,7 @@
 </tr>
 </table>
 
+
 ---
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -43,7 +47,7 @@
 <a href="https://instagram.com/ryan_fdo._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryan_fdo._" height="30" width="40" /></a>
 </p>
 
-![snake gif](https://github.com/RyanFernando27/RyanFernando27/blob/output/github-snake-dark.svg)
+
 
 ---
 <h3 align="left">Languages and Tools:</h3>
