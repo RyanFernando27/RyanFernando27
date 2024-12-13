@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ryanfernando27&label=Profile%20views&color=0e75b6&style=flat" alt="ryanfernando27" /> </p>
 
 - 🔭 I’m currently working on **9Months Pregnancy Support and Wellness App**
-  -🧑‍🎓 I’m an Undergraduate at **SLIIT**
+-🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
 - 🌱 I’m currently learning **ReactJS , Flutter ,**
 
